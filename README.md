@@ -9,6 +9,9 @@
 | 100   | 227    | 09:30 | ![IndianMysore240c9m30s](https://user-images.githubusercontent.com/2862029/65804337-b0159980-e1d5-11e9-990c-82f86fd35b88.jpg) | Too cool<br><br>Medium roast
 | 100   | Try 235 | 7 minu | Todo: add image | Second crack should be at aprx 7 minutes
 
+| roast | grind | comments |
+|-------|-------|----------
+| 4.4   |
 
 * 7 minutes (second crack) should yield medium roast
 * 7:30 - 8:00 should yield darker roast
