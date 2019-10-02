@@ -19,6 +19,12 @@
 |-------|------------|-------|----------
 | 4.0   | 2019-09-30 | ![IMG_20190930_214144](https://user-images.githubusercontent.com/2862029/65863884-76a77e80-e3cd-11e9-972c-c0a6ab7d5201.jpg) | 
 
+## Guata Mala
+
+| roast | date       | grind | comments |
+|-------|------------|-------|----------
+| 4.0   | 2019-09-28 | ![IMG_20191002_210426](https://user-images.githubusercontent.com/2862029/66029772-6d98e780-e55c-11e9-802c-29fa0090a6bb.jpg) | 
+
 
 
 * 7 minutes (second crack) should yield medium roast
