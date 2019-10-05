@@ -25,7 +25,11 @@
 |-------|------------|-------|----------
 | 4.0   | 2019-09-28 | ![IMG_20191002_210426](https://user-images.githubusercontent.com/2862029/66029772-6d98e780-e55c-11e9-802c-29fa0090a6bb.jpg) | 
 
+## Popayan Reserve
 
+| roast | date       | grind | comments |
+|-------|------------|-------|----------
+| 4.0   | 2019-09-30 | ![IMG_20191005_161116](https://user-images.githubusercontent.com/2862029/66249108-5a1f9380-e78b-11e9-9866-9eabb0686e6b.jpg)
 
 * 7 minutes (second crack) should yield medium roast
 * 7:30 - 8:00 should yield darker roast
