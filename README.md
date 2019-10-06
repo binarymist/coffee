@@ -30,6 +30,7 @@
 | roast | date       | grind | comments |
 |-------|------------|-------|----------
 | 4.0   | 2019-09-30 | ![IMG_20191005_161116](https://user-images.githubusercontent.com/2862029/66249108-5a1f9380-e78b-11e9-9866-9eabb0686e6b.jpg)
+| 4.5   | 2019-10-01 | ![IMG_20191006_145406-min](https://user-images.githubusercontent.com/2862029/66263158-67e81e00-e84a-11e9-8649-c24e2e6fc788.jpg)
 
 * 7 minutes (second crack) should yield medium roast
 * 7:30 - 8:00 should yield darker roast
