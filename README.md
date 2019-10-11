@@ -34,5 +34,11 @@
 | 5.0 | 2019-10-03 | ![IMG_20191007_205206-min](https://user-images.githubusercontent.com/2862029/66296210-8a149580-e949-11e9-8d80-6a76d2627271.jpg) | 
 | 5.5 | 2019-10-09 | ![IMG_20191009_194330-min](https://user-images.githubusercontent.com/2862029/66460671-da1f6380-ead3-11e9-8728-04a4c56b3098.jpg) |
 
+## Indian Robusta
+
+| roast | date       | grind | comments |
+|-------|------------|-------|----------
+| 3.0   | 2019-10-07 | ![IMG_20191012_094610-min](https://user-images.githubusercontent.com/2862029/66684775-4d44f780-ecd7-11e9-92fb-bcf5a69fab86.jpg) | 
+
 * 7 minutes (second crack) should yield medium roast
 * 7:30 - 8:00 should yield darker roast
