@@ -1,1 +1,5 @@
 * [Guata Mala](GuataMala.md)
+* [Honduras La Flor](HondurasLaFlor.md)
+* [Indian Mysore](IndianMysore.md)
+* [Indian Robusta](IndianRobusta.md)
+* [Popayan Reserve](PopayanReserve.md)
