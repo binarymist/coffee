@@ -3,4 +3,5 @@
 * [Honduras La Flor](HondurasLaFlor.md)
 * [Indian Mysore](IndianMysore.md)
 * [Indian Robusta](IndianRobusta.md)
+* [Kenyan](Kenyan.md)
 * [Popayan Reserve](PopayanReserve.md)
