@@ -1,3 +1,5 @@
+> Grind performed by Mazzer Mini
+
 ## Popcorn Popper
 
 | Grams | Temp | Min   | Grind | Comments 
