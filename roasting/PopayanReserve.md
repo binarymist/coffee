@@ -1,3 +1,5 @@
+> Grind performed by Mazzer Mini
+
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 4.0   | 2019-09-30 | ![IMG_20191005_161116](https://user-images.githubusercontent.com/2862029/66249108-5a1f9380-e78b-11e9-9866-9eabb0686e6b.jpg) | 
