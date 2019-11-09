@@ -1,4 +1,4 @@
-> Roasted by Kaffelogic Nano 7
+> Roasted by Kaffelogic Nano 7<br>
 > Ground by Mazzer Mini
 
 | Roast | Date       | Grind | Comments |
