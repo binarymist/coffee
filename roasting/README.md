@@ -1,3 +1,5 @@
+# Single Origin
+
 * [Cerrado](Cerrado.md)
 * [Guata Mala](GuataMala.md)
 * [Honduras La Flor](HondurasLaFlor.md)
@@ -5,3 +7,6 @@
 * [Indian Robusta](IndianRobusta.md)
 * [Kenyan](Kenyan.md)
 * [Popayan Reserve](PopayanReserve.md)
+
+# Blends
+
