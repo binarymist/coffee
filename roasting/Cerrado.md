@@ -1,4 +1,4 @@
-Grind performed by Mazzer Mini
+> Grind performed by Mazzer Mini
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
