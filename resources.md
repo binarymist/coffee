@@ -6,4 +6,5 @@
 
 ## Green Bean Suppliers
 
+* [The Coffee Workshop](https://www.thecoffeeworkshop.co.nz/store/c6/Green_Coffee_Beans_%28500gm%2C_1kg%2C_5kg_%26_15kg%29.html)
 * [RNGCoffee](https://www.rngcoffee.co.nz/shop/)
