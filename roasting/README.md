@@ -8,6 +8,16 @@
 * [Kenyan](Kenyan.md)
 * [Popayan Reserve](PopayanReserve.md)
 
+Next try:
+
+* Brazil Caldus Royale
+* Brazil Cerrado Altyo Camelo
+* Ethiopia Yirgacheffe
+* Ethiopia Sidamo
+* Mexican Altura SHB
+* Any other robusta's?
+
+
 # Blends
 
 | Beans                   | Ratio | Roast   | Grind | Comments |
