@@ -12,18 +12,18 @@ Next try:
 
 * [x] [Peru Norte Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/PeruNorteFTO)
 * [ ] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
-* [ ] [India Monsoon Malabar](https://www.greenbeanhouse.co.nz/product/2048014)
-* [ ] [PNG Kongo Premium X](https://www.greenbeanhouse.co.nz/product/2078789)
+* [x] [India Monsoon Malabar](https://www.greenbeanhouse.co.nz/product/2048014)
+* [x] [PNG Kongo Premium X](https://www.greenbeanhouse.co.nz/product/2078789)
 * [ ] [PNG Okapa AX](https://www.greenbeanhouse.co.nz/product/1554800)
 * [ ] [PNG Timuza AX](https://www.greenbeanhouse.co.nz/product/1911645)
 * [ ] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678)
 * [ ] [Brazil Mogiana](https://www.greenbeanhouse.co.nz/product/2043866)
-* [ ] [Brazil Santos](https://www.greenbeanhouse.co.nz/product/2043868)
+* [x] [Brazil Santos](https://www.greenbeanhouse.co.nz/product/2043868)
 * [ ] [Ethiopia Harar Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaHararOromiaFTO)
-* [ ] [Ethiopia Sidama](https://www.greenbeanhouse.co.nz/product/2084244)
+* [x] [Ethiopia Sidama](https://www.greenbeanhouse.co.nz/product/2084244)
 * [ ] [Ethiopia Sidama Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaSidamoOromiaFTO)
 * [ ] [Ethiopia Yirga Cheffe Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaYirgaCheffeOromiaFTO)
-* [ ] [Kenya](https://www.greenbeanhouse.co.nz/product/KenyaWashedSpecialty)
+* [x] [Kenya](https://www.greenbeanhouse.co.nz/product/KenyaWashedSpecialty)
 
 <br>
 
