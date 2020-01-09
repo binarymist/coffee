@@ -15,7 +15,6 @@ Next try:
 * [x] [India Monsoon Malabar](https://www.greenbeanhouse.co.nz/product/2048014)
 * [x] [PNG Kongo Premium X](https://www.greenbeanhouse.co.nz/product/2078789)
 * [ ] [PNG Okapa AX](https://www.greenbeanhouse.co.nz/product/1554800)
-* [ ] [PNG Timuza AX](https://www.greenbeanhouse.co.nz/product/1911645)
 * [ ] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678)
 * [ ] [Brazil Mogiana](https://www.greenbeanhouse.co.nz/product/2043866)
 * [x] [Brazil Santos](https://www.greenbeanhouse.co.nz/product/2043868)
