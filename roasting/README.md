@@ -12,7 +12,7 @@
 
 ## From [Green Bean House](https://www.greenbeanhouse.co.nz/green-coffee-beans.html)
 
-* [Peru Norte Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/PeruNorteFTO)
+* [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md)
 
 Next try:
 
