@@ -10,6 +10,10 @@
 * [Kenyan](Kenyan.md)
 * [Papayan Reserve](PapayanReserve.md)
 
+## From [Green Bean House](https://www.greenbeanhouse.co.nz/green-coffee-beans.html)
+
+* [Peru Norte Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/PeruNorteFTO)
+
 Next try:
 
 * [x] [Peru Norte Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/PeruNorteFTO)
