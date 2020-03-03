@@ -16,6 +16,7 @@
 * [India Monsoon Malabar](IndiaMonsoonMalabar.md)
 * [PNG Kongo Premium X](PNGKongoPremiumX.md)
 * [Brazil Santos](BrazilSantos.md)
+* [Kenya](Kenya.md)
 
 Next try:
 
