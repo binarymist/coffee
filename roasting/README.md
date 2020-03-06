@@ -17,6 +17,7 @@
 * [PNG Kongo Premium X](PNGKongoPremiumX.md)
 * [Brazil Santos](BrazilSantos.md)
 * [Kenya](Kenya.md)
+* [Ethiopia Sidama](EthiopiaSidama.md)
 
 Next try:
 
