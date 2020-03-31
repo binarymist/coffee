@@ -35,6 +35,8 @@ Next try:
 * [x] [Colombia Huila Supremo](https://www.greenbeanhouse.co.nz/product/2079681)
 * [x] [Colombia Popayan Reserve](https://www.greenbeanhouse.co.nz/product/2085558)
 * [x] [Kenya](https://www.greenbeanhouse.co.nz/product/KenyaWashedSpecialty)
+* [ ] [Guatemala Alom Antigua](https://www.greenbeanhouse.co.nz/product/GuatemalaCertifiedAntiguaSpecialty)
+* [ ] [Guatemala Huehuetenango Guaya'b Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/GuatemalaHuehuetenangoGuayabFTO)
 
 <br>
 
