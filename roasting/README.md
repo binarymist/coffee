@@ -56,5 +56,5 @@ Next try:
 | Kenyan, Indian Robusta | 40/60 | 2.0,2.0 | ![signal-attachment-2019-11-12-191718-min](https://user-images.githubusercontent.com/2862029/68647862-c8722580-0583-11ea-993c-09ed10db39e5.jpeg) | <ul><li>Has potential, needs experimenting with</li><ul>
 | Papayan Reserve, Indian Robusta | 60/40 | 2.0,2.0 | | Papayan makes a good base full of flavouor but not strong, Robusta adds strength and crema. Could be worth going darker with the Robusta
  | <ul><li>Ethiopia Sidama</li><li>Brazil Santos</li><li>PNG Kongo</li></ol> | 33.3/33/3/33.3 | 3.0 |  | Tast pretty good, some tweaking to be done should yield good results
- 
+ | <ul><li>Ethiopia Sidama</li><li>Indian Robusta</li></ul> | 66%/33% | 3.0/2.0 |  | Taste OK. Try reducing the Robusta another 10%-15%
 
