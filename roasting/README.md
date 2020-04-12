@@ -21,7 +21,7 @@
 
 Next try:
 
-Focus on interesting blends, and get the beans to fulfil
+Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html), and get the beans to fulfil
 
 * [x] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
 * [x] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678)
