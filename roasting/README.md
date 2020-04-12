@@ -21,6 +21,8 @@
 
 Next try:
 
+Focus on interesting blends, and get the beans to fulfil
+
 * [x] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
 * [x] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678)
 * [x] [Brazil Mogiana](https://www.greenbeanhouse.co.nz/product/2043866)
