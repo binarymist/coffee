@@ -18,6 +18,8 @@
 * [Brazil Santos](BrazilSantos.md)
 * [Kenya](Kenya.md)
 * [Ethiopia Sidama](EthiopiaSidama.md)
+* [Ethiopia Harar Oramia](EthiopiaHararOramia.md)
+* [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md)
 
 Next try:
 
