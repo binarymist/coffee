@@ -26,7 +26,7 @@ Next try:
 Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html), and get the beans to fulfil
 
 * [x] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
-* [x] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678)
+* [x] [Brazil Fernando Medeiros](https://www.greenbeanhouse.co.nz/product/2079678) link gone
 * [x] [Brazil Mogiana](https://www.greenbeanhouse.co.nz/product/2043866)
 * [x] [Ethiopia Harar Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaHararOromiaFTO)
 * [x] [Ethiopia Sidama](https://www.greenbeanhouse.co.nz/product/2084244)
