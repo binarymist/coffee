@@ -14,7 +14,7 @@
 | [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md) |  |
 | [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
 | [PNG Kongo Premium X](PNGKongoPremiumX.md) |  |
-| [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) |  |
+| [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Santos](BrazilSantos.md) |  |
 | [Kenya](Kenya.md) |  |
