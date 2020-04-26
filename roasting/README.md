@@ -1,27 +1,33 @@
 # Single Origin
 
-## From [The Coffee Workshop](https://www.thecoffeeworkshop.co.nz/store/c6/Green_Coffee_Beans_%28500gm%2C_1kg%2C_5kg_%26_15kg%29.html)
+| Bean | Rating |
+|------|--------|
+| **[The Coffee Workshop]** |  |
+| [Cerrado](Cerrado.md) |  |
+| [Guata Mala](GuataMala.md) |  |
+| [Honduras La Flor](HondurasLaFlor.md) |  |
+| [Indian Mysore](IndianMysore.md) |  |
+| [Indian Robusta](IndianRobusta.md) |  |
+| [Kenyan](Kenyan.md) |  |
+| [Papayan Reserve](PapayanReserve.md) |  |
+| **[Green Bean House]** |  |
+| [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md) |  |
+| [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
+| [PNG Kongo Premium X](PNGKongoPremiumX.md) |  |
+| [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) |  |
+| [Brazil Mogiana](BrazilMogiana.md) |  |
+| [Brazil Santos](BrazilSantos.md) |  |
+| [Kenya](Kenya.md) |  |
+| [Ethiopia Sidama](EthiopiaSidama.md) |  |
+| [Ethiopia Harar Oramia](EthiopiaHararOramia.md) |  |
+| [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
 
-* [Cerrado](Cerrado.md)
-* [Guata Mala](GuataMala.md)
-* [Honduras La Flor](HondurasLaFlor.md)
-* [Indian Mysore](IndianMysore.md)
-* [Indian Robusta](IndianRobusta.md)
-* [Kenyan](Kenyan.md)
-* [Papayan Reserve](PapayanReserve.md)
 
-## From [Green Bean House](https://www.greenbeanhouse.co.nz/green-coffee-beans.html)
 
-* [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md)
-* [India Monsoon Malabar](IndiaMonsoonMalabar.md)
-* [PNG Kongo Premium X](PNGKongoPremiumX.md)
-* [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md)
-* [Brazil Mogiana](BrazilMogiana.md)
-* [Brazil Santos](BrazilSantos.md)
-* [Kenya](Kenya.md)
-* [Ethiopia Sidama](EthiopiaSidama.md)
-* [Ethiopia Harar Oramia](EthiopiaHararOramia.md)
-* [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md)
+[The Coffee Workshop]: https://www.thecoffeeworkshop.co.nz/store/c6/Green_Coffee_Beans_%28500gm%2C_1kg%2C_5kg_%26_15kg%29.html
+[Green Bean House]: https://www.greenbeanhouse.co.nz/green-coffee-beans.html
+
+
 
 Next try:
 
