@@ -29,7 +29,6 @@ Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blen
 
 * [x] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
 * [x] [Ethiopia Harar Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaHararOromiaFTO)
-* [x] [Ethiopia Sidama](https://www.greenbeanhouse.co.nz/product/2084244)
 * [x] [Ethiopia Yirga Cheffe Oromia Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/EthiopiaYirgaCheffeOromiaFTO)
 * [x] [Colombia Huila Supremo](https://www.greenbeanhouse.co.nz/product/2079681)
 * [x] [Colombia Popayan Reserve](https://www.greenbeanhouse.co.nz/product/2085558)
