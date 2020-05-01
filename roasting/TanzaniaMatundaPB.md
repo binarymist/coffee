@@ -5,7 +5,7 @@ Tanzania Matunda PB - no link
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
-| 1.5   | 2020-04-29 |  | <ul><li>Slightly acidic taste, earthy, full of flavour, after taste which leaves the mouth feeling caked in chocolate</li><li>Good pontential for blending, quite wonderful</li><li>Probably a good match to blend with Ethiopia Yirga Cheffe Oromia</li></ul>
+| 1.5   | 2020-04-29 |  | <ul><li>Slightly acidic taste, earthy, full of flavour, after taste which leaves the mouth feeling caked in chocolate, quite wonderful</li><li>Good pontential for blending</li><li>Probably a good match to blend with Ethiopia Yirga Cheffe Oromia</li></ul>
 
 These sites have good description of the bean:
 
