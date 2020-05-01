@@ -21,7 +21,7 @@
 | [Ethiopia Sidama](EthiopiaSidama.md) |  |
 | [Ethiopia Harar Oramia](EthiopiaHararOramia.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
-
+| [Tanzania Mutunda PB](TanzaniaMutundaPB.md) |  |
 
 
 [The Coffee Workshop]: https://www.thecoffeeworkshop.co.nz/store/c6/Green_Coffee_Beans_%28500gm%2C_1kg%2C_5kg_%26_15kg%29.html
@@ -33,7 +33,6 @@ Next try:
 
 Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html), and get the beans to fulfil
 
-* [x] [Tanzania Matunda PB](https://www.greenbeanhouse.co.nz/product/2043904)
 * [x] [Colombia Huila Supremo](https://www.greenbeanhouse.co.nz/product/2079681)
 * [x] [Colombia Popayan Reserve](https://www.greenbeanhouse.co.nz/product/2085558)
 * [ ] [Costa Rica Tres Nubes](https://www.greenbeanhouse.co.nz/product/2108294)
