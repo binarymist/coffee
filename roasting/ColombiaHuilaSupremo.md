@@ -8,5 +8,5 @@
 | 1.5   | 2020-05-09 |  | 
 | 3.5   | 2020-05-09 |  | <ul><li>Pretty normal every day coffee</li><li>Nothing that really stood out as being either good or bad</li></ul>
 | 5.0   | 2020-05-09 |  | 
-| 1.5/3.5 |  |  | <ul><li>50/50 blend</li><li>Started tasting really good at 9 days after roast</li><li>Smokey, choclaty taste matured 9 days after roast</li><ul>
+| 3.5/5.0 |  |  | <ul><li>50/50 blend</li><li>Started tasting really good at 9 days after roast</li><li>Smokey, choclaty taste matured 9 days after roast</li><ul>
 
