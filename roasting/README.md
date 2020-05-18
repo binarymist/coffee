@@ -59,5 +59,5 @@ Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blen
  | <ul><li>Papayan Reserve</li><li>Indian Robusta</li></ul> | 60/40 | 2.0,2.0 | | Papayan makes a good base full of flavouor but not strong, Robusta adds strength and crema. Could be worth going darker with the Robusta
  | <ul><li>Ethiopia Sidama</li><li>Brazil Santos</li><li>PNG Kongo</li></ol> | 33.3/33/3/33.3 | 3.0 |  | Tast pretty good, some tweaking to be done should yield good results
  | <ul><li>Ethiopia Sidama</li><li>Indian Robusta</li></ul> | 66/33 | 3.0/2.0 |  | Taste OK. Try reducing the Robusta another 10%-15%
- | <ul><li>Ethiopia Harar Oramia</li><li>Ethiopia Yirga Cheffe Oromia</li></ul> | 50/50 | 3.0/3.0 |  | Taste good. but the Ethiopia Yirga Cheffe Oromia taste the best on it's own
-
+ | <ul><li>Ethiopia Harar Oramia</li><li>Ethiopia Yirga Cheffe Oromia</li></ul> | 50/50 | 3.0/3.0 |  | Taste good. but the Ethiopia Yirga Cheffe Oromia taste the best on it's own 
+ | Colombia Huila Supremo | 50/50 | 1.5/3.5 |  | Started tasting really good at 9 days after roast |
