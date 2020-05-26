@@ -35,8 +35,6 @@ Next try:
 
 Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html), and get the beans to fulfil
 
-* [x] [Colombia Huila Supremo](https://www.greenbeanhouse.co.nz/product/2079681)
-* [x] [Colombia Popayan Reserve](https://www.greenbeanhouse.co.nz/product/2085558)
 * [ ] [Costa Rica Tres Nubes](https://www.greenbeanhouse.co.nz/product/2108294)
 * [ ] [Guatemala Alom Antigua](https://www.greenbeanhouse.co.nz/product/GuatemalaCertifiedAntiguaSpecialty)
 * [ ] [Guatemala Huehuetenango Guaya'b Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/GuatemalaHuehuetenangoGuayabFTO)
