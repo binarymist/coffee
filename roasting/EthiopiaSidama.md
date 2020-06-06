@@ -1,7 +1,7 @@
 > Roasted by Kaffelogic Nano 7<br>
 > Ground by Mazzer Mini
 
-[Ethiopia Sidama](https://www.greenbeanhouse.co.nz/product/EthiopiaSidamoOromiaFTO)
+[Ethiopia Sidama Oromia](https://www.greenbeanhouse.co.nz/product/EthiopiaSidamoOromiaFTO)
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
