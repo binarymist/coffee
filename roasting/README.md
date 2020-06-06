@@ -20,7 +20,7 @@
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Santos](BrazilSantos.md) |  |
 | [Kenya](Kenya.md) |  |
-| [Ethiopia Sidama](EthiopiaSidama.md) |  |
+| [Ethiopia Sidama Oramia](EthiopiaSidamaOromia.md) |  |
 | [Ethiopia Harar Oramia](EthiopiaHararOramia.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Tanzania Mutunda PB](TanzaniaMatundaPB.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
