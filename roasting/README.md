@@ -30,14 +30,7 @@
 [Green Bean House]: https://www.greenbeanhouse.co.nz/green-coffee-beans.html
 
 
-
-Next try:
-
-Focus on interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html), and get the beans to fulfil
-
-* [ ] [Costa Rica Tres Nubes](https://www.greenbeanhouse.co.nz/product/2108294)
-* [ ] [Guatemala Alom Antigua](https://www.greenbeanhouse.co.nz/product/GuatemalaCertifiedAntiguaSpecialty)
-* [ ] [Guatemala Huehuetenango Guaya'b Fair Trade Organic](https://www.greenbeanhouse.co.nz/product/GuatemalaHuehuetenangoGuayabFTO)
+Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 <br>
 
