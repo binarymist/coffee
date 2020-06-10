@@ -30,19 +30,9 @@
 [Green Bean House]: https://www.greenbeanhouse.co.nz/green-coffee-beans.html
 
 
-Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
-
-<br>
-
-* Brazil Caldus Royale
-* Brazil Cerrado Altyo Camelo
-* Ethiopia Yirgacheffe
-* Ethiopia Sidamo
-* Mexican Altura SHB
-
-
-
 # Blends
+
+Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 | Beans                   | Ratio | Roast   | Grind | Comments |
 |-------------------------|-------|---------|-------|----
