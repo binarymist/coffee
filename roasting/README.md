@@ -60,3 +60,13 @@ Colombia Jairo Arcila
 3.0 medium-light  
 [Best consumed 10-20 days post roast date](https://vikingcoffee.co.nz/products/jairo-arcila-gesha-natural)
 
+# Next Roasts
+
+Ethiopia Sidama Bule Hora  
+1.5 light  
+3.0 medium-light
+
+Brazil Paulo Izidro Arcanjo  
+1.5 light  
+3.0 medium-light
+
