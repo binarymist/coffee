@@ -5,5 +5,5 @@
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
-| 1.8   | 2020-04-16 |  | <ul><li>First try lighter, then darker</li></ul>
+| 1.8   | 2020-04-16 |  | <ul><li>[Try a little darker](https://www.greenbeanhouse.co.nz/product/2043866)</li></ul>
 
