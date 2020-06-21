@@ -53,7 +53,7 @@ Costa Rica Tres Nubes
 
 Congo Sopacdi  
 1.5 light  
-3.0 medium-ligh5
+3.0 medium-light
 
 Colombia Jairo Arcila  
 1.5 light  
