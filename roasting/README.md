@@ -43,3 +43,20 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 | <ul><li>Ethiopia Sidama</li><li>Indian Robusta</li></ul> | 66/33 | 3.0/2.0 |  | Taste OK. Try reducing the Robusta another 10%-15% 
 | <ul><li>Ethiopia Harar Oramia</li><li>Ethiopia Yirga Cheffe Oromia</li></ul> | 50/50 | 3.0/3.0 |  | Taste good. but the Ethiopia Yirga Cheffe Oromia taste the best on it's own 
  
+# Current Roasts
+
+## Sun June 21
+
+Costa Rica Tres Nubes  
+1.5 light  
+3.0 medium-light
+
+Congo Sopacdi  
+1.5 light  
+3.0 medium-ligh5
+
+Colombia Jairo Arcila  
+1.5 light  
+3.0 medium-light  
+[Best consumed 10-20 days post roast date](https://vikingcoffee.co.nz/products/jairo-arcila-gesha-natural)
+
