@@ -13,6 +13,7 @@
 | **[Green Bean House]** |  |
 | [Colombia Huila Supremo](ColombiaHuilaSupremo.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Popayan Reserve](ColombiaPopayanReserve.md) | :coffee::coffee::coffee::coffee::coffee: |
+| [Congo Sopacdi](CongoSopacdi.md) |  |
 | [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md) |  |
 | [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
 | [PNG Kongo Premium X](PNGKongoPremiumX.md) |  |
