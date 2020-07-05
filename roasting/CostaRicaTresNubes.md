@@ -1,1 +1,9 @@
+> Roasted by Kaffelogic Nano 7<br>
+> Ground by Mazzer Mini
 
+[Costa Rica Tres Nubes](https://www.greenbeanhouse.co.nz/product/2108294)
+
+| Roast | Date       | Grind | Comments |
+|-------|------------|-------|----------
+| 1.5   | 2020-06-21 |  | Todo
+| 3.5   | 2020-06-21 |  | Todo
