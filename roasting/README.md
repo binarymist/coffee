@@ -15,7 +15,7 @@
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Santos](BrazilSantos.md) |  |
 | [Colombia Huila Supremo](ColombiaHuilaSupremo.md) | :coffee::coffee::coffee::coffee::coffee: |
-| [Colombia Jairo Arcila](ColombiaJairoArcila.md) | Todo |
+| [Colombia Jairo Arcila](ColombiaJairoArcila.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Popayan Reserve](ColombiaPopayanReserve.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Congo Sopacdi](CongoSopacdi.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Costa Rica Tres Nubes](CostaRicaTresNubes.md) | Todo |
