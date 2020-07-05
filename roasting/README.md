@@ -12,6 +12,7 @@
 | [Papayan Reserve](PapayanReserve.md) |  |
 | **[Green Bean House]** |  |
 | [Colombia Huila Supremo](ColombiaHuilaSupremo.md) | :coffee::coffee::coffee::coffee::coffee: |
+| [Colombia Jairo Arcila](ColombiaJairoArcila.md) | Todo |
 | [Colombia Popayan Reserve](ColombiaPopayanReserve.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Congo Sopacdi](CongoSopacdi.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md) |  |
