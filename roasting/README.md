@@ -43,7 +43,19 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 | <ul><li>Ethiopia Sidama</li><li>Brazil Santos</li><li>PNG Kongo</li></ol> | 33.3/33/3/33.3 | 3.0 |  | Tast pretty good, some tweaking to be done should yield good results 
 | <ul><li>Ethiopia Sidama</li><li>Indian Robusta</li></ul> | 66/33 | 3.0/2.0 |  | Taste OK. Try reducing the Robusta another 10%-15% 
 | <ul><li>Ethiopia Harar Oramia</li><li>Ethiopia Yirga Cheffe Oromia</li></ul> | 50/50 | 3.0/3.0 |  | Taste good. but the Ethiopia Yirga Cheffe Oromia taste the best on it's own 
- 
+
+# Next Roasts
+
+## 1
+
+Ethiopia Yirga Cheffe Oromia 32, 30, 28  
+Congo Sopacdi 32, 30, 28
+
+## 2 
+
+Ethiopia Yirga Cheffe Oromia 32, 30, 28  
+Colombia Jairo Arcila 32, 30, 28
+
 # Current Roasts
 
 ## Sun July 05
@@ -56,10 +68,9 @@ Brazil Paulo Izidro Arcanjo
 2.0 light  
 3.0 medium-light
 
-# Next Roasts
-
-
 # Past Roasts
+
+## Sun June 21
 
 Costa Rica Tres Nubes  
 1.5 light  
