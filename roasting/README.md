@@ -18,7 +18,7 @@
 | [Colombia Jairo Arcila](ColombiaJairoArcila.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Popayan Reserve](ColombiaPopayanReserve.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Congo Sopacdi](CongoSopacdi.md) | :coffee::coffee::coffee::coffee::coffee: |
-| [Costa Rica Tres Nubes](CostaRicaTresNubes.md) |  |
+| [Costa Rica Tres Nubes](CostaRicaTresNubes.md) | Todo |
 | [Ethiopia Harar Oramia](EthiopiaHararOramia.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Sidama Oramia](EthiopiaSidamaOromia.md) |  |
 | [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
