@@ -51,14 +51,14 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 ## 1
 
 Ethiopia Yirga Cheffe Oromia 32, 30, 28  
-Congo Sopacdi 32, 30, 28
-
-## 2 
-
-Ethiopia Yirga Cheffe Oromia 32, 30, 28  
 Colombia Jairo Arcila 32, 30, 28
 
 # Current Roasts
+
+## Sun July 12
+
+Ethiopia Yirga Cheffe Oromia 32, 30, 27  
+Congo Sopacdi 32, 30, 27
 
 ## Sun July 05
 
