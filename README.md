@@ -1,6 +1,6 @@
 # Synopsis
 
-On the quest to engineer the perfect cup of coffee. We've been on this journey since early 2000's when I graduated, left my carpentry career behind and immersed myself in creating and breaking technology. This act lead me to a life long apprenticeship of studying and mastering the black arts of technical architecture, software engineering then breaking it all. This of course meant that long after most sane people have called it quits for the night, We're getting into the zone. In order to maintain a lifestyle like this for years on end (staying in the zone for as long as possible), stimulants (:coffee:) are essential. So why not enjoy rather than endure the cup?
+On the quest to engineer the perfect cup of coffee. We've been on this journey since early 2000's when I graduated, left my carpentry career behind and immersed myself in creating and breaking technology. This act lead me to a life long apprenticeship of studying and mastering the black arts of technical architecture, software engineering then breaking it all. This of course meant that long after most sane people have called it quits for the night, We're getting into the zone. In order to maintain a lifestyle like this for years on end (staying in the zone for as long as possible), stimulants (C8H10N4O2) are essential. So why not enjoy rather than endure the cup?
 
 As part of this journey I've exposed myself to many good Barista's, learnt many techniques, and have explored many tools of the trade.
 
