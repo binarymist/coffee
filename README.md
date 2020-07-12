@@ -8,8 +8,8 @@ Todo: Discus this journey, the steps/learnings and tools along the way.
 
 Our current set-up is:
 
-Roaster: Kaffelogic Nano 7
-Grinder: Mazzer Mini
+Roaster: Kaffelogic Nano 7  
+Grinder: Mazzer Mini  
 Espresso Machine: Vibiemme Domobar Super Lever (Vibiemme is the creator of the patented E-61 grouphead)
 
 # [Roasting](roasting/README.md)
