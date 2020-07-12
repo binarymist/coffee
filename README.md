@@ -22,3 +22,5 @@ Todo: Discus this journey, the steps/learnings and tools along the way.
 * 7:30 - 8:00 should yield darker roast
 
 # [Resources](resources.md)
+
+Any questions? Submit a pull request, or DM us at [@binarymist](https://twitter.com/binarymist)
