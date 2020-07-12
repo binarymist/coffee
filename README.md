@@ -12,6 +12,8 @@ Roaster: Kaffelogic Nano 7
 Grinder: Mazzer Mini  
 Espresso Machine: Vibiemme Domobar Super Lever (Vibiemme is the creator of the patented E-61 grouphead)
 
+There were many tooling steps along the way, this is a journey that keeps evolving. You don't need to have expensive tools in order to create great coffee in the cup. A great Barista with minimal tooling can create great coffee in the cup. The same can not be said for someone that doesn't know what they're doing but has expensive tooling.
+
 # [Roasting](roasting/README.md)
 
 * 7 minutes (second crack) should yield medium roast
