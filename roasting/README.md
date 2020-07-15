@@ -20,6 +20,7 @@
 | [Congo Sopacdi](CongoSopacdi.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Costa Rica Tres Nubes](CostaRicaTresNubes.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Harar Oramia](EthiopiaHararOramia.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
+| [Ethiopia Sidama Bule Hora](EthiopiaSidamaBuleHora.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Sidama Oramia](EthiopiaSidamaOromia.md) |  |
 | [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
 | [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
