@@ -5,6 +5,6 @@
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
-| 2.0   | 2020-07-05 |  | 
+| 2.0   | 2020-07-05 |  | Not quite as good as 3.0, although 3.0 taste better
 | 3.0   | 2020-07-05 |  | Pretty good tasting, not that many different taste notes though
 
