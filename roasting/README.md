@@ -51,8 +51,8 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 ## 1
 
-Ethiopia Yirga Cheffe Oromia 32, 30, 28  
-Colombia Jairo Arcila 32, 30, 28
+Ethiopia Yirga Cheffe Oromia 33, 30, 28  
+Colombia Jairo Arcila 33, 30, 28
 
 # Current Roasts
 
