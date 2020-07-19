@@ -52,7 +52,7 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 ## 1
 
 Ethiopia Yirga Cheffe Oromia 3.3, 3.0, 2.8  
-Colombia Jairo Arcila 3.3, 3.0, 2.8
+Colombia Jairo Arcila 3.3, 3.0
 
 # Current Roasts
 
