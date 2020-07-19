@@ -51,15 +51,20 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 ## 1
 
-Ethiopia Yirga Cheffe Oromia 33, 30, 28  
-Colombia Jairo Arcila 33, 30, 28
+Ethiopia Yirga Cheffe Oromia 3.3, 3.0, 2.8  
+Colombia Jairo Arcila 3.3, 3.0, 2.8
 
 # Current Roasts
 
+## Sun July 19
+
+Colombia Jairo Arclia 2.8  
+Costa Rica Tres Nubes 2.7, 3.3, 3.6
+
 ## Sun July 12
 
-Ethiopia Yirga Cheffe Oromia 32, 30, 27  
-Congo Sopacdi 32, 30, 27
+Ethiopia Yirga Cheffe Oromia 3.2, 3.0, 2.7  
+Congo Sopacdi 3.2, 3.0, 2.7
 
 ## Sun July 05
 
