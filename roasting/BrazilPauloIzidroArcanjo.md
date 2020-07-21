@@ -6,3 +6,4 @@
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 2.0   | 2020-07-05 |  | Nothing special
+| 3.0   | 2020-07-05 |  | Nothing special
