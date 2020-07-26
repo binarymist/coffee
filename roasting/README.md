@@ -50,7 +50,7 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 # Next Roasts
 
-
+Based on last roasts use either the same three beans, or dial in Ethiopia Yirga Cheffe Oromia
 
 # Current Roasts
 
