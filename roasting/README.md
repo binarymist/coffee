@@ -50,12 +50,20 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 # Next Roasts
 
-## 1
 
-Ethiopia Yirga Cheffe Oromia 3.3, 3.0, 2.8  
-Colombia Jairo Arcila 3.3, 3.0
 
 # Current Roasts
+
+## Sun July 26
+
+Colombia Jairo Arcila  
+2.5 3.3, 3.6, 3.9
+
+Brazil Paulo Izidro Arcanjo  
+2.5, 3.5
+
+Ethiopia Sidama Bule Hora  
+2.5, 2.8
 
 ## Sun July 19
 
