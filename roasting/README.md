@@ -72,7 +72,7 @@ Costa Rica Tres Nubes 2.7, 3.3, 3.6
 
 ## Sun July 12
 
-Ethiopia Yirga Cheffe Oromia 3.2, 3.0, 2.7  
+Ethiopia Yirga Cheffe Oromia 3.3, 3.0, 2.7  
 Congo Sopacdi 3.2, 3.0, 2.7
 
 ## Sun July 05
