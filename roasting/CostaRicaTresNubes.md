@@ -6,7 +6,7 @@
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 1.5   | 2020-06-21 |  | Too green, bitter
-| 2.7   | 2020-06-19 |  | 
+| 2.7   | 2020-07-29 |  | Quite strong, good flavours, not amazing
 | 3.0   | 2020-06-21 |  | Good coffee, nothing amazing
 | 3.3   | 2020-06-19 |  | 
 | 3.6   | 2020-06-19 |  | 
