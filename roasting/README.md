@@ -54,10 +54,15 @@ Based on last roasts use either the same three beans, or dial in Ethiopia Yirga 
 
 # Current Roasts
 
+## Sun Aug 02
+
+Brazil Paulo Izidro Arcanjo  
+1.5, 2.5, 3.5, 4.0, 4.5, 5.0
+
 ## Sun July 26
 
 Colombia Jairo Arcila  
-2.5 3.3, 3.6, 3.9
+2.5, 3.3, 3.6, 3.9
 
 Brazil Paulo Izidro Arcanjo  
 2.5, 3.5
