@@ -70,6 +70,8 @@ Brazil Paulo Izidro Arcanjo
 Ethiopia Sidama Bule Hora  
 2.5, 2.8
 
+# Past Roasts
+
 ## Sun July 19
 
 Colombia Jairo Arclia 2.8  
@@ -89,8 +91,6 @@ Ethiopia Sidama Bule Hora
 Brazil Paulo Izidro Arcanjo  
 2.0 light  
 3.0 medium-light
-
-# Past Roasts
 
 ## Sun June 21
 
