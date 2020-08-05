@@ -5,6 +5,7 @@
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
-| 2.0   | 2020-07-05 |  | Not quite as good as 3.0, although 3.0 taste better
+| 2.0   | 2020-07-05 |  | Not quite as good as 3.0
+| 2.5   | 2020-07-26 |  | Some really nice flavours appear in this range. A blend of somewhere around 2.5 and something darker would probably be pretty good
 | 3.0   | 2020-07-05 |  | Pretty good tasting, not that many different taste notes though
 
