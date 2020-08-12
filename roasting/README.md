@@ -13,7 +13,7 @@
 | **[Green Bean House]** |  |
 | [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Mogiana](BrazilMogiana.md) |  |
-| [Brazil Paulo Izidro Arcanjo](BrazilPauloIzidroArcanjo.md) | :coffee::coffee::coffee: |
+| [Brazil Paulo Izidro Arcanjo](BrazilPauloIzidroArcanjo.md) | :coffee::coffee::coffee::coffee: |
 | [Brazil Santos](BrazilSantos.md) |  |
 | [Colombia Huila Supremo](ColombiaHuilaSupremo.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Jairo Arcila](ColombiaJairoArcila.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
