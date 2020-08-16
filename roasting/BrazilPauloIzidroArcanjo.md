@@ -12,4 +12,4 @@
 | 3.5   | 2020-08-02 |  | Nothing special
 | 4.0   | 2020-08-02 |  | Nothing special
 | 4.5   | 2020-08-02 |  | 
-| 5.0   | 2020-08-02 |  | 
+| 5.0   | 2020-08-02 |  | Starting to taste charcoal
