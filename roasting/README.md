@@ -59,6 +59,11 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 Brazil Paulo Izidro Arcanjo  
 1.2, 5.5, 4.5, 4.0
 
+## Wed Aug 12
+
+Ethiopia Sidama Bule Hora  
+2.3, 2.6, 2.9, 3.2, 3.5, 3.9
+
 ## Sun Aug 02
 
 Brazil Paulo Izidro Arcanjo  
