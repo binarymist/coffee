@@ -64,6 +64,8 @@ Brazil Paulo Izidro Arcanjo
 Ethiopia Sidama Bule Hora  
 2.3, 2.6, 2.9, 3.2, 3.5, 3.9
 
+# Past Roasts
+
 ## Sun Aug 02
 
 Brazil Paulo Izidro Arcanjo  
@@ -79,8 +81,6 @@ Brazil Paulo Izidro Arcanjo
 
 Ethiopia Sidama Bule Hora  
 2.5, 2.8
-
-# Past Roasts
 
 ## Sun July 19
 
