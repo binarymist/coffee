@@ -54,17 +54,22 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 # Current Roasts
 
+## Sun Sep 20
+
+Ethiopia Yirga Cheffe Oromia  
+2.5, 2,7, 3.0, 3.1, 3.2
+
 ## Sun Aug 16
 
 Brazil Paulo Izidro Arcanjo  
 1.2, 5.5, 4.5, 4.0
 
+# Past Roasts
+
 ## Wed Aug 12
 
 Ethiopia Sidama Bule Hora  
 2.3, 2.6, 2.9, 3.2, 3.5, 3.9
-
-# Past Roasts
 
 ## Sun Aug 02
 
