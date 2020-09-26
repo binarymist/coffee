@@ -12,4 +12,8 @@
 | 3.0   | 2020-07-05 |  | Pretty good tasting, not that many different taste notes though
 | 3.5   | 2020-08-12 |  | Starting to taste charcoal
 
+# Blends
 
+| Roast | Date       | Grind | Comments |
+|-------|------------|-------|----------
+| 3.0<br>2.4 | 2020-08-12 |  | This blend works nicely
