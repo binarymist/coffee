@@ -6,7 +6,8 @@
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 2.0   | 2020-06-06 |  | Too green, not good.
-| 2.7   | 2020-07-12 |  | For single origin to light, for blending probably not light enough.
+| 2.5   | 2020-09-20 |  | Seemed to taste fine despite 2.7 seeming to be too light.
+| 2.7   | 2020-07-12 |  | For single origin too light, for blending probably not light enough.
 | 3.0   | 2020-04-13 |  | <ul><li>Very Good tasting by itself</li><li>Good pontential for blending</li></ul>
 | 3.3   | 2020-07-12 |  | Starting to taste chocolaty, quite strong
 
