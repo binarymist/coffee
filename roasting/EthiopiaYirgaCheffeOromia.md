@@ -9,6 +9,7 @@
 | 2.5   | 2020-09-20 |  | Seemed to taste fine (especially for light part of blend) despite 2.7 seeming to be too light.
 | 2.7   | 2020-07-12 |  | For single origin too light, for blending probably not light enough.
 | 3.0   | 2020-04-13 |  | <ul><li>Very Good tasting by itself</li><li>Good pontential for blending</li></ul>
-| 3.3   | 2020-07-12 |  | Starting to taste chocolaty, quite strong
+| 3.1   | 2020-09-20 |  | On the edge of being over cooked.
+| 3.3   | 2020-07-12 |  | Starting to taste chocolaty, quite strong.
 
 [Roasting this bean](https://espressocoffeeguide.com/gourmet-coffee/arabian-and-african-coffees/ethiopian-coffee/ethiopian-yirgacheffe-coffee/#roasting)
