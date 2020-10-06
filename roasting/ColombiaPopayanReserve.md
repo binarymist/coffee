@@ -8,6 +8,7 @@
 | 1.5   | 2020-05-18 |  | quite good
 | 3.0   | 2020-05-18 |  | not bad
 | 5.0   | 2020-05-18 |  | Too dark
+| **Blends** |  |  | 
 | 1.5/3.0 | 2020-05-18 |  | 50/50 blend is the best for this bean
 
 
