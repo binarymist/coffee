@@ -54,6 +54,11 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 # Current Roasts
 
+## Fri Oct 9
+
+Ethiopia Yirga Cheffe Oromia  
+2.1, 2.2, 2.3, 3.0
+
 ## Sat Sep 26
 
 Ethiopia Yirga Cheffe Oromia  
