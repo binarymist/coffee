@@ -15,7 +15,8 @@
 | 3.0   | 2020-04-13 |  | <ul><li>Very Good tasting by itself</li><li>Good pontential for blending</li></ul>
 | 3.1   | 2020-09-20 |  | On the edge of being over cooked.
 | 3.3   | 2020-07-12 |  | Starting to taste chocolaty, quite strong.
+| 3.5   |  |  | What happens here?
 | **Blends** |  |  | 
-| 2.5/3.0 | 2020-09-20 |  | 50/50 Works well, but try going lighter and also a 2.6 with the lighter roast
+| 2.5/3.0 | 2020-09-20 |  | 50/50 Works well
 
 [Roasting this bean](https://espressocoffeeguide.com/gourmet-coffee/arabian-and-african-coffees/ethiopian-coffee/ethiopian-yirgacheffe-coffee/#roasting)
