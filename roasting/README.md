@@ -57,7 +57,7 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 ## Mon Oct 19
 
 Ethiopia Harar Oramia  
-1.4, 1.7, 2.0, 2.3, 2.6, 2.9, 3.2
+1.4, 1.7, 2.0, 2.3, 2.6, 2.9, 3.2, 3.5
 
 ## Fri Oct 9
 
