@@ -6,6 +6,9 @@
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 2.0   | 2020-06-06 |  | Too green, not good.
+| 2.1   | 2020-10-09 |  | Too sour
+| 2.2   | 2020-10-09 |  | A little sour but may work as the light roast partner of the darker roast.
+| 2.3   | 2020-10-09 |  | ?
 | 2.4   | 2020-09-26 |  | Similar to 2.5 and still not bad even as a single origin.
 | 2.5   | 2020-09-20 |  | Seemed to taste fine (especially for light part of blend) despite 2.7 seeming to be too light.
 | 2.6   | 2020-09-26 |  | A little sour
