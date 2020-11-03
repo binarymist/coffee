@@ -54,6 +54,11 @@ Interesting [blends](https://www.greenbeanhouse.co.nz/page/classic-blends.html)
 
 # Current Roasts
 
+## Tue Nov 3
+
+Ethiopia Sidama Bule Hora  
+1.4, 1.7, 2.1, 2.4
+
 ## Mon Oct 26
 
 Ethiopia Yirga Cheffe Oromia  
