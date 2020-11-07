@@ -5,6 +5,7 @@
 
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
+| 1.4   | 2020-10-19 |  | Less nutty tasting than 1.7, starting to taste a bit green
 | 1.7   | 2020-10-19 |  | Nutty tasting
 | 2.0   | 2020-10-19 |  | A bit booring, not much happening here
 | 2.6   | 2020-10-19 |  | Less chocolaty with some light caramel flavours comming through<br>possibly a good dark part to a blend
