@@ -22,6 +22,12 @@
 |-------|------------|-------
 | 1.5   | 2020-11-25 | This was a little less sour than K-logic classic 1.4
 
+# 1500-2000 RTD v1.0
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 1.5   | 2020-11-26 | ?
+
 # Blends
 
 | Roast | Date       | Comments |
