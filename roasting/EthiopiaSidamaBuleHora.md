@@ -16,6 +16,12 @@
 | 3.0   | 2020-07-05 | Pretty good tasting, not that many different taste notes though
 | 3.5   | 2020-08-12 | Starting to taste charcoal
 
+# 2000-2700 RTD v1.0
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 1.5   | 2020-11-25 | This was a little less sour than K-logic classic 1.4
+
 # Blends
 
 | Roast | Date       | Comments |
