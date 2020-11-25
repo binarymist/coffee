@@ -6,7 +6,7 @@
 # K-logic classic
 
 | Roast | Date       | Comments |
-|-------|------------|-------|----------
+|-------|------------|-------
 | 1.4   | 2020-11-03 | There are fruit & floral hints masked by green & sour flavours. Potential is there for a better (probably slower to heat) roast profile
 | 2.0   | 2020-07-05 | Not quite as good as 3.0
 | 2.1   | 2020-11-03 | Not tasting any wow factor here<br>Not as much potential flavour here as below 2.0
