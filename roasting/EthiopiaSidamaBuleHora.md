@@ -28,6 +28,12 @@
 |-------|------------|-------
 | 1.5   | 2020-11-26 | Very similar to 2000-2700 RTD v1.0
 
+# ninja
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 2.6 (default) | 2020-11-27 | ?
+
 # Blends
 
 | Roast | Date       | Comments |
