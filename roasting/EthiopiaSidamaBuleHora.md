@@ -32,7 +32,13 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 2.6 (default) | 2020-11-27 | watery, weak crema, taste not bad, little floral notes to speak of
+| 2.6 (default) | 2020-11-27 | Watery, weak crema, taste not bad, little floral notes to speak of
+
+# Firestarter
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| ? (default) | 2020-11-28 | Weak tasting, little flavour at all
 
 # Blends
 
