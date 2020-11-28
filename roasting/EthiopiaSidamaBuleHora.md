@@ -32,7 +32,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 2.6 (default) | 2020-11-27 | ?
+| 2.6 (default) | 2020-11-27 | watery, weak crema, taste not bad, little floral notes to speak of
 
 # Blends
 
