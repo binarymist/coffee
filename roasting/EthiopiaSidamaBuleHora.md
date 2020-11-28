@@ -40,6 +40,12 @@
 |-------|------------|-------
 | ? (default) | 2020-11-28 | Weak tasting, little flavour at all
 
+# Light
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| ?    | 2020-11-29 | ?
+
 # Blends
 
 | Roast | Date       | Comments |
