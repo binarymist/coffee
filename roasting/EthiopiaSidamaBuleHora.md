@@ -38,7 +38,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 3.2 (default) | 2020-11-28 | Weak tasting, little flavour at all<br>2nd cup was considerably better, not sure why, may have been espresso machine heat<br>Would try going lighter though.
+| 3.2 (default) | 2020-11-28 | Weak tasting, little flavour at all<br>2nd cup was considerably better, not sure why, may have been espresso machine heat<br>Would try going lighter though.<br>Taste will probably get better up to a week, as some of the floral taste notes do start to appear to several days out from roast.
 
 # Light
 
