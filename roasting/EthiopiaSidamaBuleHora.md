@@ -38,7 +38,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| ? (default) | 2020-11-28 | Weak tasting, little flavour at all
+| 3.2 (default) | 2020-11-28 | Weak tasting, little flavour at all
 
 # Light
 
