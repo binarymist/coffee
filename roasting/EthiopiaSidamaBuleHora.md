@@ -34,6 +34,28 @@
 |-------|------------|-------
 | 2.6 (default) | 2020-11-27 | Watery, weak crema, taste not bad, little floral notes to speak of
 
+# ninja 2
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 2.6 (default) | 2020-12-01 | 
+
+# ninjaturtle
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 2.5 (default) | 2020-12-01 | 
+
+# Light
+
+| Roast | Date       | Comments |
+|-------|------------|-------
+| 0.8 | 2020-12-01 | 
+| 1.0 | 2020-12-01 | 
+| 1.2 | 2020-12-01 | 
+| 1.4 | 2020-12-01 | 
+| 1.6 | 2020-12-01 | 
+
 # Firestarter
 
 | Roast | Date       | Comments |
