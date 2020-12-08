@@ -56,7 +56,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 0.6 (default) | 2020-11-29 | ?
+| 0.6 (default) | 2020-11-29 | Nothing amazing
 | 0.8 | 2020-12-01 | Nothing amazing
 | 1.0 | 2020-12-01 | Nothing amazing
 | 1.2 | 2020-12-01 | Nothing amazing
