@@ -38,7 +38,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 2.6 (default) | 2020-12-01 | 
+| 2.6 (default) | 2020-12-01 | Nothing special happening here, just coffee
 
 # ninjaturtle
 
