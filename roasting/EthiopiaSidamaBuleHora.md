@@ -33,6 +33,7 @@
 | Roast | Date       | Comments |
 |-------|------------|-------
 | 2.6 (default) | 2020-11-27 | Watery, weak crema, taste not bad, little floral notes to speak of
+| 1.5   | 2020-12-12 | 
 
 # ninja 2
 
