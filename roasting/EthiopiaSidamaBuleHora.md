@@ -21,7 +21,13 @@
 | Roast | Date       | Comments |
 |-------|------------|-------
 | 1.5   | 2020-11-25 | This was a little less sour than K-logic classic 1.4 immediately after roast.<br>24 hours after roast the sourness dissapeaared.<br>Floral notes are present. Tasting pretty good.
+
+# 2000-2700 Rest v1.0
+
+| Roast | Date       | Comments |
+|-------|------------|-------
 | 1.5   | 2020-12-12 | 
+
 
 # 1500-2000 RTD v1.0
 
