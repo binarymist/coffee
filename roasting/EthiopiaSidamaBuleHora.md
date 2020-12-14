@@ -38,7 +38,7 @@
 
 | Roast | Date       | Comments |
 |-------|------------|-------
-| 1.5   | 2020-12-12 | 
+| 1.5   | 2020-12-12 | Rich chocolatey flavour
 
 # ninja
 
