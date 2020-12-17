@@ -52,7 +52,7 @@
 | Roast | Date       | Comments |
 |-------|------------|-------
 | 2.6 (default) | 2020-12-01 | Nothing special happening here, just coffee
-| 1.5   | 2020-12-12 | 
+| 1.5   | 2020-12-12 | Grassy notes somewhat hiding the floral notes, under developed
 
 # ninjaturtle
 
