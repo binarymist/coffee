@@ -59,7 +59,7 @@
 | Roast | Date       | Comments |
 |-------|------------|-------
 | 2.5 (default) | 2020-12-01 | No distinctive Ethiopian floral notes, charcoal tasting
-| 1.5   | 2020-12-12 | 
+| 1.5   | 2020-12-12 | No distinctive Ethiopian floral notes, charcoal tasting
 
 # Firestarter
 
