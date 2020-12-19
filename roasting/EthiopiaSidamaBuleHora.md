@@ -78,6 +78,19 @@
 | 1.4 | 2020-12-01 | Nothing amazing
 | 1.6 | 2020-12-01 | Nothing amazing
 
+# Power
+
+| L | DTR% | Date       | Comments |
+|-------|---|------------|-------
+| 1.4 | 6 | 2020-12-20 | 
+
+# Steady and Dark II
+
+| L | DTR% | Date       | Comments |
+|-------|---|------------|-------
+| 3.9 | 20 | 2020-12-20 | 
+
+
 # Blends
 
 | L | Date       | Comments |
