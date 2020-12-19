@@ -83,3 +83,10 @@
 | L | Date       | Comments |
 |-------|------------|-------
 | 2.4/3.0 | 2020-08-12 | This blend works nicely
+
+
+
+# Key
+
+L: Length
+DTR: Development Time Ratio
