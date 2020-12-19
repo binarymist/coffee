@@ -5,7 +5,7 @@
 
 # K-logic classic
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 1.4   | 2020-11-03 | There are fruit & floral hints masked by green & sour flavours. Potential is there for a better (probably slower to heat) roast profile
 | 2.0   | 2020-07-05 | Not quite as good as 3.0
@@ -18,58 +18,58 @@
 
 # 2000-2700 RTD v1.0
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 1.5   | 2020-11-25 | This was a little less sour than K-logic classic 1.4 immediately after roast.<br>24 hours after roast the sourness dissapeaared.<br>Floral notes are present. Tasting pretty good.
 
 # 2000-2700 Rest v1.0
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 1.5   | 2020-12-12 | 
 
 # 1500-2000 RTD v1.0
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 1.5   | 2020-11-26 | Very similar to 2000-2700 RTD v1.0
 
 # 1500-2000 Rest v1.0
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 1.5   | 2020-12-12 | Rich chocolatey flavour
 
 # ninja
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 2.6 (default) | 2020-11-27 | Watery, weak crema, taste not bad, little floral notes to speak of
 | 1.5   | 2020-12-12 | 
 
 # ninja 2
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 2.6 (default) | 2020-12-01 | Nothing special happening here, just coffee
 | 1.5   | 2020-12-12 | Grassy notes somewhat hiding the floral notes, under developed
 
 # ninjaturtle
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 2.5 (default) | 2020-12-01 | No distinctive Ethiopian floral notes, charcoal tasting
 | 1.5   | 2020-12-12 | No distinctive Ethiopian floral notes, charcoal tasting
 
 # Firestarter
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 3.2 (default) | 2020-11-28 | Weak tasting, little flavour at all<br>2nd cup was considerably better, not sure why, may have been espresso machine heat<br>Would try going lighter though.<br>Taste will probably get better up to a week, as some of the floral taste notes do start to appear to several days out from roast.
 
 # Light
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 0.6 (default) | 2020-11-29 | Nothing amazing
 | 0.8 | 2020-12-01 | Nothing amazing
@@ -80,6 +80,6 @@
 
 # Blends
 
-| Roast | Date       | Comments |
+| L | Date       | Comments |
 |-------|------------|-------
 | 2.4/3.0 | 2020-08-12 | This blend works nicely
