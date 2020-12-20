@@ -45,7 +45,7 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2020-11-27 | 2.6d |      | Watery, weak crema, taste not bad, little floral notes to speak of
-| 2020-12-12 | 1.5  |      | 
+| 2020-12-12 | 1.5  |      | Booring
 
 # ninja 2
 
