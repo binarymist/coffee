@@ -89,6 +89,8 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2020-12-20 | 3.9  | 20   | Charcoal and chocolate<br>I think this profile is worth playing with to get a lighter roast
+| 2020-12-23 | 3.5  | 25   | 
+| 2020-12-23 | 3.0  | 16   | 
 
 
 # Blends
