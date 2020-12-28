@@ -8,6 +8,7 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2020-11-03 | 1.4  |      | There are fruit & floral hints masked by green & sour flavours.<br>Potential is there for a better (probably slower to heat) roast profile
+| 2020-12-28 | 1.6  | 25   | 
 | 2020-07-05 | 2.0  |      | Not quite as good as 3.0
 | 2020-11-03 | 2.1  |      | Not tasting any wow factor here<br>Not as much potential flavour here as below 2.0
 | 2020-08-12 | 2.3  |      | Similar to 2.5
