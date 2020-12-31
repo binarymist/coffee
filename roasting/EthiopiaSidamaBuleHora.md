@@ -23,7 +23,7 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2020-11-25 | 1.5  |      | This was a little less sour than K-logic classic 1.4 immediately after roast.<br>24 hours after roast the sourness dissapeaared.<br>Floral notes are present. Tasting pretty good.
-| 2020-12-28 | 1.7  | 25.9 | 
+| 2020-12-28 | 1.7  | 25.9 | Nutty ethiopian flavours comming through
 
 # 2000-2700 Rest v1.0
 
