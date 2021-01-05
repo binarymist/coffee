@@ -3,6 +3,8 @@
 
 [Ethiopia Harar Oramia](https://www.greenbeanhouse.co.nz/product/EthiopiaHararOromiaFTO)
 
+# K-logic classic
+
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 1.4   | 2020-10-19 |  | Less nutty tasting than 1.7, starting to taste a bit green
