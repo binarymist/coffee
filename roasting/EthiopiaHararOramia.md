@@ -5,16 +5,27 @@
 
 # K-logic classic
 
-| Roast | Date       | Grind | Comments |
-|-------|------------|-------|----------
-| 1.4   | 2020-10-19 |  | Less nutty tasting than 1.7, starting to taste a bit green
-| 1.7   | 2020-10-19 |  | Nutty tasting
-| 2.0   | 2020-10-19 |  | A bit booring, not much happening here
-| 2.6   | 2020-10-19 |  | Less chocolaty with some light caramel flavours comming through<br>possibly a good dark part to a blend
-| 2.9   | 2020-10-19 |  | Chocolaty, stronger tasting than 3.2, possibly a good dark part to a blend
-| 3.0   | 2020-04-13 |  | <ul><li>Good tasting by itself</li><li>Similar to Ethiopia Yirga Cheffe Oromia but with less flavour,<br>possibly a lighter roast would bring out more flavours</li><li>Good pontential for blending</li></ul>
-| 3.2   | 2020-10-19 |  | Chocolaty
-| 3.5   | 2020-10-19 |  | Chocolaty and charcoal
-| **Blends** |  |  | 
-| ?/2.9 |  |  | 50/50 Works ?
+| Date       | L    | DTR% | Comments |
+|------------|------|------|----------
+| 2020-10-19 | 1.4  |      | Less nutty tasting than 1.7, starting to taste a bit green
+| 2021-01-05 | 1.6  |      | 
+| 2020-10-19 | 1.7  |      | Nutty tasting
+| 2020-10-19 | 2.0  |      | A bit booring, not much happening here
+| 2021-01-05 | 2.5  | 35   | 
+| 2020-10-19 | 2.6  |      | Less chocolaty with some light caramel flavours comming through<br>possibly a good dark part to a blend
+| 2020-10-19 | 2.9  |      | Chocolaty, stronger tasting than 3.2, possibly a good dark part to a blend
+| 2020-04-13 | 3.0  |      | <ul><li>Good tasting by itself</li><li>Similar to Ethiopia Yirga Cheffe Oromia but with less flavour,<br>possibly a lighter roast would bring out more flavours</li><li>Good pontential for blending</li></ul>
+| 2020-10-19 | 3.2  |      | Chocolaty
+| 2020-10-19 | 3.5  |      | Chocolaty and charcoal
 
+# 2000-2700 Rest v1.0
+
+| Date       | L    | DTR% | Comments |
+|------------|------|------|----------
+| 2021-01-05 | 2.0  | 10   | 
+| 2021-01-05 | 2.5  | 17   | 
+
+## Blends
+| Date       | L    | DTR% | Comments |
+|------------|------|------|----------
+|            | ?/2.9|      | 50/50 Works ?
