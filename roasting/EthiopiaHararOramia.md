@@ -8,7 +8,7 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2020-10-19 | 1.4  |      | Less nutty tasting than 1.7, starting to taste a bit green
-| 2021-01-05 | 1.6  |      | 
+| 2021-01-05 | 1.6  | 25.4 | Just starting to get nutty flavour<br>Probably needs to mature for more than 5 days though
 | 2020-10-19 | 1.7  |      | Nutty tasting
 | 2020-10-19 | 2.0  |      | A bit booring, not much happening here
 | 2021-01-05 | 2.5  | 35   | 
