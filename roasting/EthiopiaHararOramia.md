@@ -23,7 +23,7 @@
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
 | 2021-01-05 | 2.0  | 10   | 
-| 2021-01-05 | 2.5  | 17   | 
+| 2021-01-05 | 2.5  | 17   | Under developed, nothing special
 
 ## Blends
 | Date       | L    | DTR% | Comments |
