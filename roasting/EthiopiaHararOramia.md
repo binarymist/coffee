@@ -22,7 +22,7 @@
 
 | Date       | L    | DTR% | Comments |
 |------------|------|------|----------
-| 2021-01-05 | 2.0  | 10   | 
+| 2021-01-05 | 2.0  | 10   | Nutty and not bad At day 5
 | 2021-01-05 | 2.5  | 17   | Under developed, nothing special
 
 ## Blends
