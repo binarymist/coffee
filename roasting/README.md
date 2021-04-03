@@ -2,17 +2,11 @@
 
 | Bean | Rating |
 |------|--------|
-| [Cerrado](Cerrado.md) |  |
-| [Guata Mala](GuataMala.md) |  |
-| [Honduras La Flor](HondurasLaFlor.md) |  |
-| [Indian Mysore](IndianMysore.md) |  |
-| [Indian Robusta](IndianRobusta.md) |  |
-| [Kenyan](Kenyan.md) |  |
-| [Papayan Reserve](PapayanReserve.md) |  |
 | [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Paulo Izidro Arcanjo](BrazilPauloIzidroArcanjo.md) | :coffee::coffee::coffee::coffee: |
 | [Brazil Santos](BrazilSantos.md) |  |
+| [Cerrado](Cerrado.md) |  |
 | [Colombia Huila Supremo](ColombiaHuilaSupremo.md) | :coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Jairo Arcila](ColombiaJairoArcila.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Colombia Popayan Reserve](ColombiaPopayanReserve.md) | :coffee::coffee::coffee::coffee::coffee: |
@@ -22,8 +16,14 @@
 | [Ethiopia Sidama Bule Hora](EthiopiaSidamaBuleHora.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Ethiopia Sidama Oramia](EthiopiaSidamaOromia.md) |  |
 | [Ethiopia Yirga Cheffe Oromia](EthiopiaYirgaCheffeOromia.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
+| [Guata Mala](GuataMala.md) |  |
+| [Honduras La Flor](HondurasLaFlor.md) |  |
 | [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
+| [Indian Mysore](IndianMysore.md) |  |
+| [Indian Robusta](IndianRobusta.md) |  |
 | [Kenya](Kenya.md) |  |
+| [Kenyan](Kenyan.md) |  |
+| [Papayan Reserve](PapayanReserve.md) |  |
 | [Peru Norte Fair Trade Organic](PeruNorteFairTradeOrganic.md) |  |
 | [PNG Kongo Premium X](PNGKongoPremiumX.md) |  |
 | [Tanzania Mutunda PB](TanzaniaMatundaPB.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
