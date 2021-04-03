@@ -2,7 +2,6 @@
 
 | Bean | Rating |
 |------|--------|
-| **[The Coffee Workshop]** |  |
 | [Cerrado](Cerrado.md) |  |
 | [Guata Mala](GuataMala.md) |  |
 | [Honduras La Flor](HondurasLaFlor.md) |  |
@@ -10,7 +9,6 @@
 | [Indian Robusta](IndianRobusta.md) |  |
 | [Kenyan](Kenyan.md) |  |
 | [Papayan Reserve](PapayanReserve.md) |  |
-| **[Green Bean House]** |  |
 | [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Paulo Izidro Arcanjo](BrazilPauloIzidroArcanjo.md) | :coffee::coffee::coffee::coffee: |
