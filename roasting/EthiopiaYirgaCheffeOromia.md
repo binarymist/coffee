@@ -5,23 +5,39 @@
 
 # K-logic classic
 
-| Roast | Date       | Grind | Comments |
+| Date | L       | DTR% | Comments |
 |-------|------------|-------|----------
-| 2.0   | 2020-06-06 |  | Too green, not good.
-| 2.1   | 2020-10-09 |  | Too sour
-| 2.2   | 2020-10-09 |  | A little sour but may work as the light roast partner of the darker roast.
-| 2.3   | 2020-10-09 |  | On the edge of being sour.
-| 2.4   | 2020-09-26 |  | Similar to 2.5 and still not bad even as a single origin.
-| 2.5   | 2020-09-20 |  | Seemed to taste fine (especially for light part of blend) despite 2.7 seeming to be too light.
-| 2.6   | 2020-09-26 |  | A little sour
-| 2.7   | 2020-07-12 |  | For single origin too light, for blending probably not light enough.
-| 2.8   | 2020-09-26 |  | Similar to 3.0, but not quite as good.
-| 2.9   | 2020-09-26 |  | Tasting like charcoal.
-| 3.0   | 2020-04-13 |  | <ul><li>Very Good tasting by itself</li><li>Good pontential for blending</li></ul>
-| 3.1   | 2020-09-20 |  | On the edge of being over cooked.
-| 3.3   | 2020-07-12 |  | Starting to taste chocolaty, quite strong.
-| 3.5   |  |  | What happens here?
-| **Blends** |  |  | 
-| 2.5/3.0 | 2020-09-20 |  | 50/50 Works well
+| 2020-06-06 | 2.0 |  | Too green, not good.
+| 2020-10-09 | 2.1 |  | Too sour
+| 2020-10-09 | 2.2 |  | A little sour but may work as the light roast partner of the darker roast.
+| 2020-10-09 | 2.3 |  | On the edge of being sour.
+| 2020-09-26 | 2.4 |  | Similar to 2.5 and still not bad even as a single origin.
+| 2020-09-20 | 2.5 |  | Seemed to taste fine (especially for light part of blend) despite 2.7 seeming to be too light.
+| 2020-09-26 | 2.6 |  | A little sour
+| 2020-07-12 | 2.7 |  | For single origin too light, for blending probably not light enough.
+| 2020-09-26 | 2.8 |  | Similar to 3.0, but not quite as good.
+| 2020-09-26 | 2.9 |  | Tasting like charcoal.
+| 2020-04-13 | 3.0 |  | <ul><li>Very Good tasting by itself</li><li>Good pontential for blending</li></ul>
+| 2020-09-20 | 3.1 |  | On the edge of being over cooked.
+| 2020-07-12 | 3.3 |  | Starting to taste chocolaty, quite strong.
+|  | 3.5 |  | What happens here?
+| 2021-04-04 | 2.5 | 37 | 
+| 2021-04-04 | 2.0 | 30 | 
+| 2021-04-04 | 1.5 | 25 | 
+
+
+
+# Blends
+
+| Date       | L    | DTR% | Comments |
+|------------|------|------|----------
+| 2020-09-20 | 2.5/3.0 |  | 50/50 Works well
+
+---
+
+# Key
+
+L (d): Length (profile default)  
+DTR: Development Time Ratio
 
 [Roasting this bean](https://espressocoffeeguide.com/gourmet-coffee/arabian-and-african-coffees/ethiopian-coffee/ethiopian-yirgacheffe-coffee/#roasting)
