@@ -3,6 +3,8 @@
 
 [Ethiopia Yirga Cheffe Oromia](https://www.greenbeanhouse.co.nz/product/EthiopiaYirgaCheffeOromiaFTO)
 
+# K-logic classic
+
 | Roast | Date       | Grind | Comments |
 |-------|------------|-------|----------
 | 2.0   | 2020-06-06 |  | Too green, not good.
