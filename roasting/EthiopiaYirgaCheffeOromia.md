@@ -7,6 +7,7 @@
 
 | Date | L       | DTR% | Comments |
 |-------|------------|-------|----------
+| 2021-04-04 | 1.5 | 25 | Just grass flavours
 | 2020-06-06 | 2.0 |  | Too green, not good.
 | 2020-10-09 | 2.1 |  | Too sour
 | 2020-10-09 | 2.2 |  | A little sour but may work as the light roast partner of the darker roast.
@@ -23,7 +24,6 @@
 |  | 3.5 |  | What happens here?
 | 2021-04-04 | 2.5 | 37 | 
 | 2021-04-04 | 2.0 | 30 | 
-| 2021-04-04 | 1.5 | 25 | 
 
 
 
