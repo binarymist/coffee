@@ -9,11 +9,13 @@
 |-------|------------|-------|----------
 | 2021-04-04 | 1.5 | 25 | Just grass flavours
 | 2020-06-06 | 2.0 |  | Too green, not good.
+| 2021-04-09 | 2.0 | 30 | 
 | 2020-10-09 | 2.1 |  | Too sour
 | 2020-10-09 | 2.2 |  | A little sour but may work as the light roast partner of the darker roast.
 | 2020-10-09 | 2.3 |  | On the edge of being sour.
 | 2020-09-26 | 2.4 |  | Similar to 2.5 and still not bad even as a single origin.
 | 2020-09-20 | 2.5 |  | Seemed to taste fine (especially for light part of blend) despite 2.7 seeming to be too light.
+| 2021-04-09 | 2.5 | 2.5 | 
 | 2020-09-26 | 2.6 |  | A little sour
 | 2020-07-12 | 2.7 |  | For single origin too light, for blending probably not light enough.
 | 2020-09-26 | 2.8 |  | Similar to 3.0, but not quite as good.
