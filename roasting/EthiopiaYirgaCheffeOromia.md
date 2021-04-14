@@ -7,7 +7,7 @@
 
 | Date | L       | DTR% | Comments |
 |-------|------------|-------|----------
-| 2021-04-04 | 1.5 | 25 | Just grass flavours on morning of 10th day<br>Was better on afternoon of 10th day
+| 2021-04-04 | 1.5 | 25 | Just grass flavours on morning of 10th day.<br>Was better on afternoon of 10th day
 | 2020-06-06 | 2.0 |  | Too green, not good.
 | 2021-04-09 | 2.0 | 30 | 
 | 2020-10-09 | 2.1 |  | Too sour
