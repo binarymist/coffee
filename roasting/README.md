@@ -2,6 +2,7 @@
 
 | Bean | Rating |
 |------|--------|
+| [Brazil Falcafe](BrazilFalcafe.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Fernando Medeiros](BrazilFernandoMedeiros.md) | :coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Brazil Mogiana](BrazilMogiana.md) |  |
 | [Brazil Paulo Izidro Arcanjo](BrazilPauloIzidroArcanjo.md) | :coffee::coffee::coffee::coffee: |
