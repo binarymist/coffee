@@ -7,9 +7,7 @@ From RNGCoffee
 
 | Date | L       | DTR% | Comments |
 |-------|------------|-------|----------
-|  | 2.4 |  | 
-| 2021-04-14 | 1.5 | 23 | 
-|            | 2.8 |    | This is where we've settled on
+|  | 2.4 | Worked our way down from default (3.0) | 
 
 ---
 
