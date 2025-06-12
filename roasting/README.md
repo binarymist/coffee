@@ -22,6 +22,7 @@
 | [India Monsoon Malabar](IndiaMonsoonMalabar.md) |  |
 | [Indian Mysore](IndianMysore.md) |  |
 | [Indian Robusta](IndianRobusta.md) |  |
+| [IndoSumatraMandheling](IndoSumatraMandheling.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
 | [Kenya](Kenya.md) |  |
 | [Kenyan](Kenyan.md) |  |
 | [Papayan Reserve](PapayanReserve.md) |  |
