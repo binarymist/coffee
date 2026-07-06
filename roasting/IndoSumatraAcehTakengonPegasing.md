@@ -2,9 +2,9 @@
 > Roasted by Kaffelogic Nano 7<br>
 > Ground by Mazzer Mini
 
-[Indonesia Sumatra Mandheling](https://www.thecoffeeworkshopnz.com/product-page/indonesia-sumatra-mandheling-grade-1-sogb)
+Indonesia Sumatra Aceh Takengon Pegasing
 
-# Steady&Dark II
+# Ninja
 
 | Date | L       | DTR% | Comments | Boost Kit |
 |-------|------------|-------|----------|--------
