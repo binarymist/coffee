@@ -23,6 +23,7 @@
 | [Indian Mysore](IndianMysore.md) |  |
 | [Indian Robusta](IndianRobusta.md) |  |
 | [IndoSumatraMandheling](IndoSumatraMandheling.md) | :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee: |
+| [IndoSumatraAcehTakengonPegasing](IndoSumatraMandheling.md) | WIP |
 | [Kenya](Kenya.md) |  |
 | [Kenyan](Kenyan.md) |  |
 | [Papayan Reserve](PapayanReserve.md) |  |
